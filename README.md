@@ -32,4 +32,4 @@ Veja as ferramentas que já usei. 👇
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)![](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ## 
 #### Contatos
-[![Gmail Badge](https://img.shields.io/badge/-lucasvargas.9605@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link)](mailto:lucasvargas.9605@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-Lucasvargas96-000066?style=for-the-badge&logo=Linkedin&logoColor=white&link=/)](https://www.linkedin.com/in/lucas-vargas-76a8881b6/)
+[![Gmail Badge](https://img.shields.io/badge/-lucasvargas.9605@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link)](mailto:lucasvargas.9605@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-Lucasvargas-000066?style=for-the-badge&logo=Linkedin&logoColor=white&link=/)](https://www.linkedin.com/in/lucas-vargas-76a8881b6/)

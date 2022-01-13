@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Seja bem-vindo ao meu GitHub 💖
 
 Olhe também meu Portfólio :
-👉 https://lucasvargas96.github.io👈
+👉 https://lucasvargas96.github.io/ 👈
 
 Veja as ferramentas que já usei. 👇
 

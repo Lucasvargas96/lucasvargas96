@@ -1,37 +1,40 @@
-### Olá! Eu sou o Lucas Vargas 👋
+# 👋 Olá, eu sou Lucas Vargas!  
 
-<!--
-**Lucasvargas96/lucasvargas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub ❤️  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim  
+- 👨‍💻 Sou um desenvolvedor **Back-end** apaixonado por tecnologias.  
+- 💻 Trabalhando com **PHP** e **Laravel**.  
+- 📚 Sempre buscando aprender e criar projetos incríveis.  
 
-Seja bem-vindo ao meu GitHub 💖
+---
 
-Olhe também meu Portfólio :
-👉 https://lucasvargas96.github.io/ 👈
+## 🛠️ Ferramentas e Tecnologias
 
-Veja as ferramentas que já usei. 👇
+### **Front-end**
+![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0066FF?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFEA00?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
+### **Back-end**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-## Desenvolvimento
-#### Front 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/BOOTSTRAP-6500B0?style=for-the-badge&logo=Bootstrap&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/SCSS-D12443?style=for-the-badge&logo=sass&logoColor=white)![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-#### Back
-![logo PHP](imagens/PHP2.svg)![logo PHP](imagens/laravel2.png)
+### **Banco de Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-#### Database
+---
 
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)![](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+## 📈 Estatísticas
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucasvargas96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-#### Contatos
-[![Gmail Badge](https://img.shields.io/badge/-lucasvargas.9605@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link)](mailto:lucasvargas.9605@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-Lucasvargas-000066?style=for-the-badge&logo=Linkedin&logoColor=white&link=/)](https://www.linkedin.com/in/lucas-vargas-76a8881b6/)
+---
+
+## 📫 Contato  
+[![Email](https://img.shields.io/badge/Email-lucasvargas.96%40gmail.com-red)](mailto:lucasvargas.96@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LucasVargas-blue)](https://www.linkedin.com/in/seu-perfil/)

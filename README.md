@@ -28,16 +28,6 @@
 
 ---
 
-## **📸 Foto**  
-<img src="https://seu-link-para-foto" alt="Lucas Vargas" width="200" style="border-radius: 50%">
-
----
-
-## 📈 **Estatísticas**
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucasvargas96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
----
-
 ## 📫 **Contato**  
 [![Email](https://img.shields.io/badge/Email-lucasvargas.96%40gmail.com-red)](mailto:lucasvargas.96@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LucasVargas-blue)](https://www.linkedin.com/in/seu-perfil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LucasVargas-blue)](https://www.linkedin.com/in/lucasmedeirosvargas/)

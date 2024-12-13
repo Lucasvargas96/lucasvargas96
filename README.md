@@ -1,17 +1,15 @@
-# 👋 Olá, eu sou Lucas Vargas!  
-
-Bem-vindo ao meu perfil do GitHub ❤️  
+# 👋 **Olá, eu sou Lucas Vargas!**
 
 ---
 
-## 🚀 Sobre mim  
+## 🚀 **Sobre mim**  
 - 👨‍💻 Sou um desenvolvedor **Back-end** apaixonado por tecnologias.  
-- 💻 Trabalhando com **PHP** e **Laravel**.  
+- 💻 Trabalhando com **PHP** e **Symfony**.  
 - 📚 Sempre buscando aprender e criar projetos incríveis.  
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+## 🛠️ **Ferramentas e Tecnologias**
 
 ### **Front-end**
 ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=flat-square&logo=html5&logoColor=white)
@@ -21,7 +19,7 @@ Bem-vindo ao meu perfil do GitHub ❤️
 
 ### **Back-end**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 
 ### **Banco de Dados**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -30,11 +28,16 @@ Bem-vindo ao meu perfil do GitHub ❤️
 
 ---
 
-## 📈 Estatísticas
+## **📸 Foto**  
+<img src="https://seu-link-para-foto" alt="Lucas Vargas" width="200" style="border-radius: 50%">
+
+---
+
+## 📈 **Estatísticas**
 ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucasvargas96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ---
 
-## 📫 Contato  
+## 📫 **Contato**  
 [![Email](https://img.shields.io/badge/Email-lucasvargas.96%40gmail.com-red)](mailto:lucasvargas.96@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LucasVargas-blue)](https://www.linkedin.com/in/seu-perfil/)
+[![Li

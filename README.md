@@ -40,4 +40,4 @@
 
 ## 📫 **Contato**  
 [![Email](https://img.shields.io/badge/Email-lucasvargas.96%40gmail.com-red)](mailto:lucasvargas.96@gmail.com)  
-[![Li
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LucasVargas-blue)](https://www.linkedin.com/in/seu-perfil/)
